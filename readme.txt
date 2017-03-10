@@ -9,3 +9,4 @@ just a test
 hello bitch
 hello world
 another test
+bug fixed
